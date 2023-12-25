@@ -30,6 +30,6 @@
 *.exe
 *.out
 *.app
-HorrorEngine/Config/
+
 HorrorEngine/Saved/
 HorrorEngine/Intermediate/
